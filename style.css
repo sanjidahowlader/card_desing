@@ -1,0 +1,23 @@
+.card{
+    width: 300px;
+    height: 450px;
+    background-color: blueviolet; 
+    border: 2px solid blue;
+    box-shadow: 3px 2px black;
+    float: left;
+    margin: 25px; 
+
+}
+.img{
+    width:100%;
+}
+.text h1{
+    text-align: center;
+    background-color: rgb(201, 201, 11);
+    color: brown;
+
+}
+.text2{
+    text-align: justify;
+     color:rgb(15, 14, 15);
+}
